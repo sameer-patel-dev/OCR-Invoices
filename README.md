@@ -1,2 +1,2 @@
 # OCR-Invoices
-OCR for Handwritten invoices
+OCR Web Application using ReactJs, NodeJs, Python, AWS
