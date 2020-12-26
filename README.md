@@ -1,2 +1,1 @@
-# OCR-Invoices
-OCR Web Application using ReactJs, NodeJs, Python, AWS
+# Optical Character Recognition using AWS Microservices for Electronic Invoices
