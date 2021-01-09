@@ -1,1 +1,1 @@
-# Optical Character Recognition using AWS Microservices for Electronic Invoices
+# Optical Character Recognition for Electronic Invoices using AWS Microservices 
