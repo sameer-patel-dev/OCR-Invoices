@@ -20,10 +20,10 @@ This repository contains a Real-Time Serverless OCR Application based on ReactJS
 
 
 ## Results
-![Responsice Mockup](https://github.com/sameer-patel-dev/OCR-Invoices/blob/master/images/1.png)
-![Responsice Mockup](https://github.com/sameer-patel-dev/OCR-Invoices/blob/master/images/2.png)
-![Responsice Mockup](https://github.com/sameer-patel-dev/OCR-Invoices/blob/master/images/3.png)
-![Responsice Mockup](https://github.com/sameer-patel-dev/OCR-Invoices/blob/master/images/4.png)
+![Responsice Mockup](https://github.com/sameer-patel-dev/OCR-Invoices/blob/master/images/1.PNG)
+![Responsice Mockup](https://github.com/sameer-patel-dev/OCR-Invoices/blob/master/images/2.PNG)
+![Responsice Mockup](https://github.com/sameer-patel-dev/OCR-Invoices/blob/master/images/3.PNG)
+![Responsice Mockup](https://github.com/sameer-patel-dev/OCR-Invoices/blob/master/images/4.PNG)
 
 
 ## Contributors
