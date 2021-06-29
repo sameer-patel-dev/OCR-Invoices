@@ -1,6 +1,6 @@
 # Optical Character Recognition for Electronic Invoices using AWS Microservices 
 
-This repository contains a Real-Time Serverless OCR Application based on ReactJS, NodeJS, Python and AWS Services. This Project was part of a summer internship during my 3rd year of engineering. 
+This repository contains a Real-Time Serverless OCR Application based on ReactJS, NodeJS, Python and AWS Services. This Project was part of a summer internship during my 3rd year of engineering . 
 
 ## Steps Involved in the Project
   - Invoice Acquistion
